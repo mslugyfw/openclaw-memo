@@ -8,7 +8,7 @@
       "providers": {
         "modelscope": {
           "baseUrl": "https://api-inference.modelscope.cn/v1",
-          "apiKey": "ms-a61db7c2-e8b2-4687-9047-41d91c16cd6d",
+          "apiKey": "XXXXXXXXXXXX",
           "api": "openai-completions",
           "models": [
             {
